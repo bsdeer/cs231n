@@ -1,2 +1,1 @@
-#git Init
-cs231n
+cs231n 2022 spring
